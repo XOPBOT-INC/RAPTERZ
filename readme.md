@@ -1,6 +1,6 @@
 <div align="left">
 <b><em>
-<h2>RAPTERZ (A powerful project built to learn different programming languages)</h2>
+<h2>RAPTERZ (A project built to learn different programming languages)</h2>
 <h3>Information</h3>
 <p><code>Rapterz</code> is a developing project mostly made to learn different programming languages. <br/>It contains various methods based on web development to even app development, although it is based on html so it can run different tests of each code. The languages used more in this project can be found on your right down below. </p>
 <hr/>
